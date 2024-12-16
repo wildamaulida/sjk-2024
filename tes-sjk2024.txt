@@ -1,0 +1,3 @@
+Hai Aku Wilda Maulida!
+
+Ini adalah percobaan menggunakan git
